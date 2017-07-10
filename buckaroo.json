@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-davisking-dlib",
+  "dependencies": {
+    "davisking/dlib": "19.4.0",
+    "google/gtest": "1.8.0"
+  }
+}
